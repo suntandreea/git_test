@@ -1,0 +1,1 @@
+This is Andreea's first git project!
